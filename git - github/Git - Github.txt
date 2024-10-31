@@ -1,0 +1,28 @@
+      Git Terminal Komutlarý
+Ls = klasörleri göster.
+Pwd = bulunduðum klasörü göster. 
+Cd = klasör deðiþtir.
+Cd .. = bir önceki klasöre geri gel.
+Clear = ekraný temizle.
+Mkdir = klasör oluþtur.
+Touch = dosya oluþtur.
+Rm = dosya sil.
+Rm  -rf = klasör sil.
+Git config – global user.name “Hayrunisa Cibali” ,  git config user.name
+Commit = projenin aþamalarýný kaydetme.
+Branch = dallanma, ayný anda çalýþma.
+Git add = çalýþma klasörünü index alýr.
+Git commit= commit eder. Repository yükler.
+Git status = git deposunun mevcut durumunu gösterir.
+Git init= giti çalýþtýrýr.
+Git add . = klasördeki tüm dosyalarý kapsar add eder.
+Git log = commitleri görürüm.
+Gitignore = gizli dosyamý buna ekleyerek add etmem görünmesini engellerim.
+Git branch = hangi branchte olduðumu gösterir.
+Git branch feature= feature diye bir branch oluþturur.
+Git switch feature = feature branchne girer.
+Git merge feature = feaature heade eklenir.
+
+
+
+
